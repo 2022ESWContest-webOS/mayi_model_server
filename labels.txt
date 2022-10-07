@@ -1,0 +1,3 @@
+0 fight
+1 fallingDown
+2 normal
